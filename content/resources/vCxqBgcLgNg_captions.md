@@ -4,6 +4,8 @@ description: ''
 file: /courses/1-74-land-water-food-and-climate-fall-2020/vCxqBgcLgNg_captions.webvtt
 file_size: 29638
 file_type: application/x-subrip
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

@@ -41,7 +41,7 @@
     "website": "1-74-land-water-food-and-climate-fall-2020"
   },
   "course_title": "Land, Water, Food, and Climate",
-  "hide_download": false,
+  "hide_download": true,
   "mit_learn_topics": [],
   "course_description": "This reading seminar examines land, water, food, and climate in a changing world, with an emphasis on key scientific questions about the connections between natural resources and food production. Students read and discuss papers on a range of topics, including water and land resources, climate change, demography, agroecology, biotechnology, trade, and food security. The readings are supplemented by short lectures that provide context and summarize main points. The seminar provides a broad perspective on one of the defining global issues of this century. Students consider scientific controversies as well as areas of general agreement and examine practical solutions for addressing critical problems.\n",
   "department_numbers": [
@@ -53,6 +53,7 @@
     "content": "2287fee6-75ef-c7bb-670c-b585f3707645",
     "website": "1-74-land-water-food-and-climate-fall-2020"
   },
+  "hide_download_original": false,
   "learning_resource_types": [
     "Lecture Notes",
     "Instructor Insights",

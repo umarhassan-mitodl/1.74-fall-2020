@@ -2,6 +2,8 @@
 content_type: page
 description: This section addresses some ideas for the future. The focus was on student
   presentations.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: SECTION 5 | The Way Forward
