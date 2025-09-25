@@ -1,0 +1,65 @@
+{
+  "term": "Fall",
+  "year": "2020",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Energy",
+      "Climate"
+    ],
+    [
+      "Energy",
+      "Renewables"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Climate Studies"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Environmental Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Sustainability"
+    ]
+  ],
+  "legacy_uid": "2aeb5603-3364-814a-6a44-f6160cabd3c8",
+  "instructors": {
+    "content": [
+      "da801f24-c50f-07cb-d05d-77708696f98f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "91c7e46a-ac2b-d574-8ba1-31e1e5a55ee2",
+    "website": "1-74-land-water-food-and-climate-fall-2020"
+  },
+  "course_title": "Land, Water, Food, and Climate",
+  "hide_download": false,
+  "mit_learn_topics": [],
+  "course_description": "This reading seminar examines land, water, food, and climate in a changing world, with an emphasis on key scientific questions about the connections between natural resources and food production. Students read and discuss papers on a range of topics, including water and land resources, climate change, demography, agroecology, biotechnology, trade, and food security. The readings are supplemented by short lectures that provide context and summarize main points. The seminar provides a broad perspective on one of the defining global issues of this century. Students consider scientific controversies as well as areas of general agreement and examine practical solutions for addressing critical problems.\n",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "1.74",
+  "course_image_thumbnail": {
+    "content": "2287fee6-75ef-c7bb-670c-b585f3707645",
+    "website": "1-74-land-water-food-and-climate-fall-2020"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Instructor Insights",
+    "Podcasts"
+  ],
+  "site_uid": "7e27c376-152f-45cf-9d07-9f1afc5663b0",
+  "site_short_id": "1.74-fall-2020",
+  "site_url_path": "courses/1-74-land-water-food-and-climate-fall-2020",
+  "title": "Course Metadata"
+}
