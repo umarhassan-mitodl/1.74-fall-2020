@@ -2,6 +2,8 @@
 content_type: page
 description: This section continues the discussion of demand and supply, including
   links to readings and videos.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: 'SECTION 3 | Reconciling Demand and Supply: Context'

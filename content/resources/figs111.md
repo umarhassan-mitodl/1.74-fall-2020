@@ -4,6 +4,8 @@ description: ''
 file: /courses/1-74-land-water-food-and-climate-fall-2020/910098163fb2af096f7a7b2906afbf1e_FigS111.jpg
 file_size: 129699
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
